@@ -7,12 +7,13 @@
 
 ## Install
 
-With [fisherman]:
+With [`fisher`]:
 
 ```
-fisher mwilliammyers/google-cloud-sdk
+fisher add mwilliammyers/google-cloud-sdk
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
 [fishshell]: https://fishshell.com/
+[`fish`]: https://fishshell.com
+[`fisher`]: https://github.com/jorgebucaran/fisher
 [Google Cloud SDK]: https://cloud.google.com/sdk/install
