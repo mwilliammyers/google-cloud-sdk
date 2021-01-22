@@ -10,7 +10,7 @@
 With [`fisher`]:
 
 ```
-fisher add mwilliammyers/google-cloud-sdk
+fisher install mwilliammyers/google-cloud-sdk
 ```
 
 [fishshell]: https://fishshell.com/
